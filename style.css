@@ -1,0 +1,42 @@
+
+
+.titulo{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+}
+
+#encabezado{
+    background: linear-gradient(black,grey);
+}
+
+#caja-menu{
+    background: linear-gradient(grey,blue,violet);
+    border-radius: 10px;
+}
+
+::-webkit-input-placeholder{
+    font-size: 20px;
+    padding: 50px;
+}
+
+#input-texto{
+    
+    border-radius: 10px;
+    border: none;
+    resize: none;
+} 
+
+#text-input-salida{
+    
+    border-radius: 10px;
+    resize: none;
+    border: none;
+    
+} 
+
+footer a{
+    color: darkgray;
+}
+
